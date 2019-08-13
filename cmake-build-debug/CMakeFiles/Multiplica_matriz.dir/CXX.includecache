@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/Multiplica_matriz/Multiplica.hpp
+iostream
+-
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/Multiplica_matriz/main.cpp
+Multiplica.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/brincadeiras_2019/Multiplica_matriz/Multiplica.hpp
+
